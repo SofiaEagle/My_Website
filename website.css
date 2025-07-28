@@ -1,0 +1,220 @@
+.firsth1{
+    font: 900px;
+    color: #000000;
+    font-size:25px;
+    position: absolute;
+    left: 600px;
+    top: 50px;
+
+}
+
+h2{
+    font: 200px;
+    color: #000000;
+    font-size: 17px;
+    position: absolute;
+    left: 320px;
+    font-family: Georgia;
+}
+
+
+
+fieldset{
+    position: absolute;
+    left: 310px;
+    top: 100px;
+}
+
+.MIAI{
+    position: absolute;
+    left: 380px;
+    font-size: 19px;
+
+}
+
+.IMGs{
+    position: absolute;
+    left: 400px;
+    top: 75px;
+}
+
+.img1{
+    position: absolute;
+   top: 150px;
+   left: 140px;
+}
+
+.img2{
+    position: absolute;
+     top: 150px;
+   left:470px;
+
+}
+.img3{
+    position: absolute;
+    top: 150px;
+   left: 800px;
+}
+
+.img4{
+    position: absolute;
+    top: 500px;
+   left: 290px;
+}
+ .img5{
+    position: absolute;
+    top: 500px;
+    left: 670px;
+
+}
+
+.image{
+    position: absolute;
+    left:355px;
+}
+
+.anotherimg{
+position: absolute;
+left: 1000px;
+top:740px;
+}
+
+.anotherimage{
+    left:880px;
+    top: 395px;
+    position: absolute;
+}
+
+.aimg{
+position: absolute;
+left: 1000px;
+top: 80px;
+}
+
+.bimg{
+position: absolute;
+left: 1000px;
+top: 300px;}
+
+.cimg{
+position: absolute;
+top:395px;
+left: 385px;
+}
+
+.dimg{
+position: absolute;
+top: 395px;
+left: 250px;
+}
+
+.eimg{
+position: absolute;
+top: 80px;
+left: 250px;
+}
+
+.fimg{
+position: absolute;
+top: 185px;
+left: 250px;
+}
+
+.gimg{
+position: absolute;
+top: 290px;
+left: 250px;
+}
+
+.kimg{
+position: absolute;
+top: 80px;
+left: 880px;
+}
+
+.jimg{
+position: absolute;
+top: 185px;
+left: 880px;
+}
+
+.iimg{
+position: absolute;
+top: 290px;
+left: 880px;
+}
+.himg{
+    position: absolute;
+    top: 520px;
+    left: 1000px;
+}
+
+.oimg{
+    position: absolute;
+    top:395px;
+    left: 505px;
+}
+.limg{
+position: absolute;
+top: 395px;
+left:625px;
+}
+
+.mimg{
+position: absolute;
+top: 395px;
+left:745px;
+}
+.teramisu{
+left: 20px;
+top: 80px;
+position: absolute;
+}
+
+.lasagna{
+left: 20px;
+top: 520px;
+position: absolute;
+}
+
+.CassataCake{
+left: 20px;
+top: 300px;
+position:absolute;
+}
+.Arancini{
+left: 20px;
+top: 740px;
+position:absolute;
+}
+.firstpage{
+    font-size: 70px;
+    position:absolute;
+    top:10px;
+    left:400px;
+}
+
+.textpage{
+    position: absolute;
+    top: 170px;
+    left: 340px;
+    font-size: 20px;
+}
+
+.navigationbar{
+    position:absolute;
+    top: 10px;
+    left: 120px;
+    font-size: 25px;
+
+}
+input[type="checkbox"]{
+    position: relative;
+    top: 1px;
+}
+
+ header a{
+    text-decoration: none;
+    color: white;
+
+}
